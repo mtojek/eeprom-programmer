@@ -47,8 +47,8 @@ Run!
 ## Kicad preview
 
 <p float="left">
-  <img src="/screenshots/pcb-3d-viewer.png?raw=true" height="320px">
-  <img src="/screenshots/pcb-layout.png?raw=true" height="320px">
+  <img src="/screenshots/pcb-3d-viewer.png?raw=true" height="256px">
+  <img src="/screenshots/pcb-layout.png?raw=true" height="256px">
 </p>
 
 ## Photos
