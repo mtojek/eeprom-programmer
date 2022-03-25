@@ -1,6 +1,8 @@
 # eeprom-programmer
 EEPROM programmer based on Arduino
 
+This repository contains Kicad schematics and .ino source files to build the EEPROM programmer using Arduino UNO R3. If you are following the Ben's Eater course to [build a 6502 computer](https://eater.net/6502), you will see that Ben uses a [TL866 II Plus](https://eater.net/6502) model, but it is possible to program memory chips using this homebrew board.
+
 ## Sample output
 
 Check Arduino serial monitor to see memory content:
